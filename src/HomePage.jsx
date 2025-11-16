@@ -43,7 +43,6 @@ const HomePage = ({ onViewChallenges }) => {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900 text-white">
-      {/* Navigation */}
       <nav className="border-b border-slate-800 bg-slate-900/50 backdrop-blur-sm sticky top-0 z-50">
         <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
@@ -70,8 +69,8 @@ const HomePage = ({ onViewChallenges }) => {
         </div>
       </nav>
 
-      {/* Hero Section */}
-      <div className="max-w-7xl mx-auto px-6 py-20">
+      
+     <div className="max-w-7xl mx-auto px-6 py-12">
         <div className="text-center mb-16">
           <div className="inline-flex items-center gap-2 px-4 py-2 bg-purple-500/20 border border-purple-500/30 rounded-full mb-6">
             <Star className="w-4 h-4 text-yellow-400" />
@@ -107,7 +106,7 @@ const HomePage = ({ onViewChallenges }) => {
             </a>
           </div>
 
-          {/* Stats */}
+        
           <div className="flex flex-wrap items-center justify-center gap-8 text-center">
             <div>
               <div className="text-4xl font-bold text-purple-400">20+</div>
