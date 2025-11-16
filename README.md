@@ -17,7 +17,7 @@ Complete working solutions for 20+ practical React coding challenges commonly as
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/yourusername/react-interview-challenges.git
+git clone https://github.com/Anshul1321/React-Interview-Challenges.git
 cd react-practical-challenges
 npm install
 npm run dev
@@ -31,7 +31,7 @@ npm run dev
 4. Notification System
 5. Theme Switcher with Persistence
 6. Drag-and-Drop Kanban Board
-... and 11 more!
+... and 15 more!
 
 ## 🛠️ Tech Stack
 
