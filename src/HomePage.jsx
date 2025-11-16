@@ -52,7 +52,7 @@ const HomePage = ({ onViewChallenges }) => {
           </div>
           <div className="flex items-center gap-4">
             <a 
-              href="https://github.com/yourusername/react-interview-challenges" 
+              href="https://github.com/Anshul1321/React-Interview-Challenges.git" 
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-4 py-2 hover:bg-slate-800 rounded-lg transition"
@@ -124,6 +124,12 @@ const HomePage = ({ onViewChallenges }) => {
               <div className="text-sm text-gray-400">Forever</div>
             </div>
           </div>
+        </div>
+
+          <div className="text-center mb-12">
+          <p className="text-gray-400 text-sm mb-4 flex items-center justify-center gap-2">
+            Made with <span className="text-red-500 animate-pulse">❤️</span> by Piyush Garg
+          </p>
         </div>
 
         <div id="features" className="grid md:grid-cols-3 gap-6 mb-20">
@@ -221,7 +227,7 @@ const HomePage = ({ onViewChallenges }) => {
               View All Challenges
             </button>
             <a
-              href="https://github.com/yourusername/react-interview-challenges"
+              href="https://github.com/Anshul1321/React-Interview-Challenges.git"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-4 bg-slate-900 hover:bg-slate-800 rounded-lg font-semibold text-lg flex items-center gap-2 transition"
